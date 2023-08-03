@@ -12,6 +12,6 @@ The logic starts from understanding the landmarks in a human hand that are obser
 To download this repository click the 'code' button to copy the file directory and enter the following command in terminal of your machine
 
 
-```git clone [repsitory link]```
+```git clone https://github.com/Suga7772/cv-virtual.mouse.git```
 
 and you are set to use a Virtual mouse without the use of mousepad on your own!
